@@ -7,6 +7,7 @@ Flask-Bcrypt
 Flask-SocketIO
 Flask-SQLAlchemy
 eventlet
+better_profanity
 PyMySQL
 bcrypt
 python-dotenv
