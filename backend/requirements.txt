@@ -5,6 +5,7 @@ Flask-Mail
 Flask-Limiter
 Flask-Bcrypt
 Flask-SocketIO
+Flask-SQLAlchemy
 eventlet
 PyMySQL
 bcrypt
