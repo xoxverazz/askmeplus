@@ -6,6 +6,5 @@ Flask-Limiter
 PyMySQL
 bcrypt
 python-dotenv
-Pillow==10.0.1
 razorpay
 gunicorn
