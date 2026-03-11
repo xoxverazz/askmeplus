@@ -13,3 +13,4 @@ bcrypt
 python-dotenv
 razorpay
 gunicorn
+user-agents
