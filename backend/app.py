@@ -1,4 +1,6 @@
 import os
+import eventlet
+
 from flask import Flask
 from flask_cors import CORS
 from flask_jwt_extended import JWTManager
@@ -11,7 +13,7 @@ from routes.messages import messages_bp
 from routes.analytics import analytics_bp
 from routes.profile import profile_bp
 from routes.public import public_bp
-
+eventlet.monkey_patch()
 load_dotenv()
 
 app = Flask(__name__)
