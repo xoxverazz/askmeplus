@@ -3,6 +3,7 @@ Flask-CORS
 Flask-JWT-Extended
 Flask-Mail
 Flask-Limiter
+Flask-Bcrypt
 PyMySQL
 bcrypt
 python-dotenv
